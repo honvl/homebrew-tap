@@ -8,7 +8,7 @@ cask "pi-gui" do
   url "https://github.com/honvl/muse-code-gui/releases/download/v1.1.0/pi-gui-1.1.0-arm64.dmg"
   name "pi-gui"
   desc "Codex-style desktop shell for pi"
-  homepage "https://github.com/minghinmatthewlam/pi-gui"
+  homepage "https://github.com/honvl/muse-code-gui"
 
   depends_on arch: :arm64
 
